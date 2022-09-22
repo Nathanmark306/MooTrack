@@ -1,0 +1,13 @@
+{
+  "name": "moo_track",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "client": "cd moo_track && npm run start",
+    "server": "cd server && nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
